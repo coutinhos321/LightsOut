@@ -1,4 +1,4 @@
-# LightsOut
+# Lights Out
 
 This project was created for ECE 198 in 1A Electrical/Computer Engineering at the University of Waterloo. 
 
